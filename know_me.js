@@ -23,4 +23,4 @@ var question = [{question : "\nI love cofee or tea ? " , answer : "tea"
  for( var i = 0 ; i < question.length ; i++){
    var currentQuestion = question[i];
    play(currentQuestion.question , currentQuestion.answer);
-    }
+    } 
